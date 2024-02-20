@@ -1,1 +1,2 @@
-Primera practiva de JS moderno. Desde 0
+Primera practiva de JS moderno.
+Terminar Practica
